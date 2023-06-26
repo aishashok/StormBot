@@ -5,7 +5,4 @@ The dataset is downloaded from: https://www.kaggle.com/datasets/dan195/hurricane
 
 
 This project is owned by:
-Aishwarya Ashok
-Austin Pelletier
-Jackie Dong
-Shuang Zhao
+Aishwarya Ashok, Austin Pelletier, Jackie Dong, Shuang Zhao
